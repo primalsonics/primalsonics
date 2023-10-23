@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @primalsonics
-- 👀 I’m interested in music production and sonics, photography,coding in c
-- 🌱 I’m currently learning vb.net & c++
-- 💞️ I’m looking to collaborate on anything to challenge myself 
+- I’m interested in music production and sonics, photography,coding in c
+- 
+-  I’m currently learning vb.net & c++
+-  I’m looking to collaborate on anything to challenge myself
+-  
 - 📫 How to reach me
 - email: danieltove14@gmail.com
 - contact no: 0104199169
