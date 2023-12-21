@@ -1,13 +1,16 @@
-- 👋 Hi, I’m @primalsonics
-- I’m interested in music production and sonics, photography,coding in c
+- Hi, I’m @primalsonics
 - 
+-  I’m interested in music production and sonics, photography,coding in c
 -  I’m currently learning vb.net & c++
 -  I’m looking to collaborate on anything to challenge myself
 -  
-- 📫 How to reach me
+- How to reach me
+- 
 - email: danieltove14@gmail.com
-- contact no: 0104199169
-- Ig: bli.zzard6
+- contact no: 0104199169 telegrm
+- contact no: +254768507017 telegrm
+- Ig: g_the_darknight
+- Ig: g_the_darkknight2.0
 - 
 
 <!---
